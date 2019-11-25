@@ -1,0 +1,9 @@
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculo_Raiz_Quadrada\wfaCalculo_Raiz_Quadrada\bin\Debug\wfaCalculo_Raiz_Quadrada.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculo_Raiz_Quadrada\wfaCalculo_Raiz_Quadrada\obj\Debug\wfaCalculo_Raiz_Quadrada.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculo_Raiz_Quadrada\wfaCalculo_Raiz_Quadrada\obj\Debug\wfaCalculo_Raiz_Quadrada.Form1.resources
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculo_Raiz_Quadrada\wfaCalculo_Raiz_Quadrada\obj\Debug\wfaCalculo_Raiz_Quadrada.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculo_Raiz_Quadrada\wfaCalculo_Raiz_Quadrada\obj\Debug\wfaCalculo_Raiz_Quadrada.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculo_Raiz_Quadrada\wfaCalculo_Raiz_Quadrada\bin\Debug\wfaCalculo_Raiz_Quadrada.exe
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculo_Raiz_Quadrada\wfaCalculo_Raiz_Quadrada\bin\Debug\wfaCalculo_Raiz_Quadrada.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculo_Raiz_Quadrada\wfaCalculo_Raiz_Quadrada\obj\Debug\wfaCalculo_Raiz_Quadrada.exe
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculo_Raiz_Quadrada\wfaCalculo_Raiz_Quadrada\obj\Debug\wfaCalculo_Raiz_Quadrada.pdb

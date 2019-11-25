@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2013\Projects\caHerança1\caHerança1\bin\Debug\caHerança1.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\caHerança1\caHerança1\bin\Debug\caHerança1.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caHerança1\caHerança1\bin\Debug\caHerança1.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\caHerança1\caHerança1\obj\Debug\caHerança1.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\caHerança1\caHerança1\obj\Debug\caHerança1.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caHerança1\caHerança1\obj\Debug\caHerança1.pdb

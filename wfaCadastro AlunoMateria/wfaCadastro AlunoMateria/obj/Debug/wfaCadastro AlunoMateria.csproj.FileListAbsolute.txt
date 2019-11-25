@@ -1,0 +1,19 @@
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\bin\Debug\wfaCadastro AlunoMateria.exe.config
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\bin\Debug\wfaCadastro AlunoMateria.exe
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\bin\Debug\wfaCadastro AlunoMateria.pdb
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro AlunoMateria.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro_AlunoMateria.Form1.resources
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro_AlunoMateria.Properties.Resources.resources
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro AlunoMateria.csproj.GenerateResource.Cache
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro AlunoMateria.exe
+C:\Users\Pedro\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro AlunoMateria.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\bin\Debug\wfaCadastro AlunoMateria.exe.config
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\bin\Debug\wfaCadastro AlunoMateria.exe
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\bin\Debug\wfaCadastro AlunoMateria.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro AlunoMateria.csprojAssemblyReference.cache
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro_AlunoMateria.Form1.resources
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro_AlunoMateria.Properties.Resources.resources
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro AlunoMateria.csproj.GenerateResource.cache
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro AlunoMateria.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro AlunoMateria.exe
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCadastro AlunoMateria\wfaCadastro AlunoMateria\obj\Debug\wfaCadastro AlunoMateria.pdb

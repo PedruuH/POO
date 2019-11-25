@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2013\Projects\caBanco\caBanco\bin\Debug\caBanco.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\caBanco\caBanco\bin\Debug\caBanco.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caBanco\caBanco\bin\Debug\caBanco.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\caBanco\caBanco\obj\Debug\caBanco.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\caBanco\caBanco\obj\Debug\caBanco.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caBanco\caBanco\obj\Debug\caBanco.pdb

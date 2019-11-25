@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2013\Projects\caNumeroComplexo\caNumeroComplexo\bin\Debug\caNumeroComplexo.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\caNumeroComplexo\caNumeroComplexo\obj\Debug\caNumeroComplexo.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\caNumeroComplexo\caNumeroComplexo\bin\Debug\caNumeroComplexo.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caNumeroComplexo\caNumeroComplexo\bin\Debug\caNumeroComplexo.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\caNumeroComplexo\caNumeroComplexo\obj\Debug\caNumeroComplexo.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caNumeroComplexo\caNumeroComplexo\obj\Debug\caNumeroComplexo.pdb

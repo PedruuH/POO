@@ -1,0 +1,9 @@
+c:\users\pedro\documents\visual studio 2013\Projects\wfaMediaAritimetica\wfaMediaAritimetica\bin\Debug\wfaMediaAritimetica.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\wfaMediaAritimetica\wfaMediaAritimetica\bin\Debug\wfaMediaAritimetica.exe
+c:\users\pedro\documents\visual studio 2013\Projects\wfaMediaAritimetica\wfaMediaAritimetica\bin\Debug\wfaMediaAritimetica.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\wfaMediaAritimetica\wfaMediaAritimetica\obj\Debug\wfaMediaAritimetica.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\wfaMediaAritimetica\wfaMediaAritimetica\obj\Debug\wfaMediaAritimetica.Form1.resources
+c:\users\pedro\documents\visual studio 2013\Projects\wfaMediaAritimetica\wfaMediaAritimetica\obj\Debug\wfaMediaAritimetica.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2013\Projects\wfaMediaAritimetica\wfaMediaAritimetica\obj\Debug\wfaMediaAritimetica.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2013\Projects\wfaMediaAritimetica\wfaMediaAritimetica\obj\Debug\wfaMediaAritimetica.exe
+c:\users\pedro\documents\visual studio 2013\Projects\wfaMediaAritimetica\wfaMediaAritimetica\obj\Debug\wfaMediaAritimetica.pdb

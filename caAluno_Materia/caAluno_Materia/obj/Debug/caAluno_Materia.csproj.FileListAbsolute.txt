@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2013\Projects\caAluno_Materia\caAluno_Materia\bin\Debug\caAluno_Materia.exe.config
+C:\Users\Pedro\documents\visual studio 2013\Projects\caAluno_Materia\caAluno_Materia\obj\Debug\caAluno_Materia.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\documents\visual studio 2013\Projects\caAluno_Materia\caAluno_Materia\bin\Debug\caAluno_Materia.exe
+C:\Users\Pedro\documents\visual studio 2013\Projects\caAluno_Materia\caAluno_Materia\bin\Debug\caAluno_Materia.pdb
+C:\Users\Pedro\documents\visual studio 2013\Projects\caAluno_Materia\caAluno_Materia\obj\Debug\caAluno_Materia.exe
+C:\Users\Pedro\documents\visual studio 2013\Projects\caAluno_Materia\caAluno_Materia\obj\Debug\caAluno_Materia.pdb

@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2013\Projects\caTratamentoExcecao\caTratamentoExcecao\bin\Debug\caTratamentoExcecao.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\caTratamentoExcecao\caTratamentoExcecao\bin\Debug\caTratamentoExcecao.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caTratamentoExcecao\caTratamentoExcecao\bin\Debug\caTratamentoExcecao.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\caTratamentoExcecao\caTratamentoExcecao\obj\Debug\caTratamentoExcecao.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\caTratamentoExcecao\caTratamentoExcecao\obj\Debug\caTratamentoExcecao.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caTratamentoExcecao\caTratamentoExcecao\obj\Debug\caTratamentoExcecao.pdb

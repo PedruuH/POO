@@ -1,0 +1,8 @@
+c:\users\pedro\documents\visual studio 2013\Projects\wfaLAB04\wfaLAB04\bin\Debug\wfaLAB04.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\wfaLAB04\wfaLAB04\obj\Debug\wfaLAB04.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\wfaLAB04\wfaLAB04\obj\Debug\wfaLAB04.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2013\Projects\wfaLAB04\wfaLAB04\obj\Debug\wfaLAB04.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2013\Projects\wfaLAB04\wfaLAB04\bin\Debug\wfaLAB04.exe
+c:\users\pedro\documents\visual studio 2013\Projects\wfaLAB04\wfaLAB04\bin\Debug\wfaLAB04.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\wfaLAB04\wfaLAB04\obj\Debug\wfaLAB04.exe
+c:\users\pedro\documents\visual studio 2013\Projects\wfaLAB04\wfaLAB04\obj\Debug\wfaLAB04.pdb

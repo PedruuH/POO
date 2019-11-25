@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2013\Projects\caQUESTAO2\caQUESTAO2\bin\Debug\caQUESTAO2.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\caQUESTAO2\caQUESTAO2\bin\Debug\caQUESTAO2.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caQUESTAO2\caQUESTAO2\bin\Debug\caQUESTAO2.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\caQUESTAO2\caQUESTAO2\obj\Debug\caQUESTAO2.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\caQUESTAO2\caQUESTAO2\obj\Debug\caQUESTAO2.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caQUESTAO2\caQUESTAO2\obj\Debug\caQUESTAO2.pdb

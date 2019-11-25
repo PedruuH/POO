@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2013\Projects\caArquivoTexto\caArquivoTexto\bin\Debug\caArquivoTexto.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\caArquivoTexto\caArquivoTexto\bin\Debug\caArquivoTexto.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caArquivoTexto\caArquivoTexto\bin\Debug\caArquivoTexto.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\caArquivoTexto\caArquivoTexto\obj\Debug\caArquivoTexto.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\caArquivoTexto\caArquivoTexto\obj\Debug\caArquivoTexto.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caArquivoTexto\caArquivoTexto\obj\Debug\caArquivoTexto.pdb

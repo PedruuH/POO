@@ -1,0 +1,19 @@
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.exe
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.Form1.resources
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.exe
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.exe.config
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.exe
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.exe
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\bin\Debug\wfaCalculadora.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.Form1.resources
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.Properties.Resources.resources
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.csproj.GenerateResource.Cache
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.csprojAssemblyReference.cache
+C:\Users\Pedro Henrique\Documents\Visual Studio 2013\Projects\wfaCalculadora\wfaCalculadora\obj\Debug\wfaCalculadora.csproj.CoreCompileInputs.cache

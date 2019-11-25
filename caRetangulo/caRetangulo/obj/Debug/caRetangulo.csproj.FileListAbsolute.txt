@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2013\Projects\caRetangulo\caRetangulo\bin\Debug\caRetangulo.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\caRetangulo\caRetangulo\bin\Debug\caRetangulo.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caRetangulo\caRetangulo\bin\Debug\caRetangulo.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\caRetangulo\caRetangulo\obj\Debug\caRetangulo.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\caRetangulo\caRetangulo\obj\Debug\caRetangulo.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caRetangulo\caRetangulo\obj\Debug\caRetangulo.pdb

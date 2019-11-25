@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2013\Projects\caFatorial\caFatorial\bin\Debug\caFatorial.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\caFatorial\caFatorial\bin\Debug\caFatorial.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caFatorial\caFatorial\bin\Debug\caFatorial.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\caFatorial\caFatorial\obj\Debug\caFatorial.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\caFatorial\caFatorial\obj\Debug\caFatorial.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caFatorial\caFatorial\obj\Debug\caFatorial.pdb

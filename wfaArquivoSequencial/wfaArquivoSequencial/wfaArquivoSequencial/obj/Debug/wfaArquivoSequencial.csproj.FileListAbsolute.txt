@@ -1,0 +1,20 @@
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoSequencial\wfaArquivoSequencial\bin\Debug\wfaArquivoSequencial.exe.config
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoSequencial\wfaArquivoSequencial\bin\Debug\wfaArquivoSequencial.exe
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoSequencial\wfaArquivoSequencial\bin\Debug\wfaArquivoSequencial.pdb
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.csprojResolveAssemblyReference.cache
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.Form1.resources
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.Properties.Resources.resources
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.csproj.GenerateResource.Cache
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.exe
+c:\users\edgard\documents\visual studio 2015\Projects\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.pdb
+C:\Users\Pedro Henrique\Desktop\wfaArquivoSequencial\wfaArquivoSequencial\wfaArquivoSequencial\bin\Debug\wfaArquivoSequencial.exe.config
+C:\Users\Pedro Henrique\Desktop\wfaArquivoSequencial\wfaArquivoSequencial\wfaArquivoSequencial\bin\Debug\wfaArquivoSequencial.exe
+C:\Users\Pedro Henrique\Desktop\wfaArquivoSequencial\wfaArquivoSequencial\wfaArquivoSequencial\bin\Debug\wfaArquivoSequencial.pdb
+C:\Users\Pedro Henrique\Desktop\wfaArquivoSequencial\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.csprojAssemblyReference.cache
+C:\Users\Pedro Henrique\Desktop\wfaArquivoSequencial\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.Form1.resources
+C:\Users\Pedro Henrique\Desktop\wfaArquivoSequencial\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.Properties.Resources.resources
+C:\Users\Pedro Henrique\Desktop\wfaArquivoSequencial\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.csproj.GenerateResource.cache
+C:\Users\Pedro Henrique\Desktop\wfaArquivoSequencial\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Henrique\Desktop\wfaArquivoSequencial\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.exe
+C:\Users\Pedro Henrique\Desktop\wfaArquivoSequencial\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.pdb
+C:\Users\Pedro Henrique\Desktop\wfaArquivoSequencial\wfaArquivoSequencial\wfaArquivoSequencial\obj\Debug\wfaArquivoSequencial.Form2.resources

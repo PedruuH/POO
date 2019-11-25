@@ -1,0 +1,9 @@
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCadastroEmpregados\wfaCadastroEmpregados\bin\Debug\wfaCadastroEmpregados.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCadastroEmpregados\wfaCadastroEmpregados\bin\Debug\wfaCadastroEmpregados.exe
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCadastroEmpregados\wfaCadastroEmpregados\bin\Debug\wfaCadastroEmpregados.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCadastroEmpregados\wfaCadastroEmpregados\obj\Debug\wfaCadastroEmpregados.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCadastroEmpregados\wfaCadastroEmpregados\obj\Debug\wfaCadastroEmpregados.Form1.resources
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCadastroEmpregados\wfaCadastroEmpregados\obj\Debug\wfaCadastroEmpregados.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCadastroEmpregados\wfaCadastroEmpregados\obj\Debug\wfaCadastroEmpregados.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCadastroEmpregados\wfaCadastroEmpregados\obj\Debug\wfaCadastroEmpregados.exe
+c:\users\pedro\documents\visual studio 2013\Projects\wfaCadastroEmpregados\wfaCadastroEmpregados\obj\Debug\wfaCadastroEmpregados.pdb

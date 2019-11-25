@@ -1,0 +1,6 @@
+c:\users\pedro\documents\visual studio 2013\Projects\caLAB04\caLAB04\bin\Debug\caLAB04.exe.config
+c:\users\pedro\documents\visual studio 2013\Projects\caLAB04\caLAB04\obj\Debug\caLAB04.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2013\Projects\caLAB04\caLAB04\bin\Debug\caLAB04.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caLAB04\caLAB04\bin\Debug\caLAB04.pdb
+c:\users\pedro\documents\visual studio 2013\Projects\caLAB04\caLAB04\obj\Debug\caLAB04.exe
+c:\users\pedro\documents\visual studio 2013\Projects\caLAB04\caLAB04\obj\Debug\caLAB04.pdb

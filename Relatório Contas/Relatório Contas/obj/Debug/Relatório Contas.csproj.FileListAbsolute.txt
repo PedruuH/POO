@@ -1,0 +1,10 @@
+C:\Users\Pedro Henrique\Documents\Visual Studio 2017\Projects\Relatório Contas\Relatório Contas\bin\Debug\Relatório Contas.exe.config
+C:\Users\Pedro Henrique\Documents\Visual Studio 2017\Projects\Relatório Contas\Relatório Contas\bin\Debug\Relatório Contas.exe
+C:\Users\Pedro Henrique\Documents\Visual Studio 2017\Projects\Relatório Contas\Relatório Contas\bin\Debug\Relatório Contas.pdb
+C:\Users\Pedro Henrique\Documents\Visual Studio 2017\Projects\Relatório Contas\Relatório Contas\obj\Debug\Relatório Contas.csprojAssemblyReference.cache
+C:\Users\Pedro Henrique\Documents\Visual Studio 2017\Projects\Relatório Contas\Relatório Contas\obj\Debug\Relatório_Contas.Form1.resources
+C:\Users\Pedro Henrique\Documents\Visual Studio 2017\Projects\Relatório Contas\Relatório Contas\obj\Debug\Relatório_Contas.Properties.Resources.resources
+C:\Users\Pedro Henrique\Documents\Visual Studio 2017\Projects\Relatório Contas\Relatório Contas\obj\Debug\Relatório Contas.csproj.GenerateResource.cache
+C:\Users\Pedro Henrique\Documents\Visual Studio 2017\Projects\Relatório Contas\Relatório Contas\obj\Debug\Relatório Contas.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Henrique\Documents\Visual Studio 2017\Projects\Relatório Contas\Relatório Contas\obj\Debug\Relatório Contas.exe
+C:\Users\Pedro Henrique\Documents\Visual Studio 2017\Projects\Relatório Contas\Relatório Contas\obj\Debug\Relatório Contas.pdb
